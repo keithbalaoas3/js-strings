@@ -1,0 +1,18 @@
+let favActorFirstName = "Pablito";
+let favActorLastName = "Sarmiento";
+let fullName = Pablito + " " + Sarmiento;
+let favActorNameUppercase = PABLITO SARMIENTO.toUpperCase();
+let favActorNameLowercase = pablito sarmiento.toLowerCase();
+let favPetName = "Labang";
+let favPetNameCapitalized = LABANG.charAt(0).toUpperCase() + Labang.slice(1);
+let message = "My favorite actor is " + LABANG + "!";
+let messageWithLocation = message + " He is best know for being comedian.";
+console.log("Pablito:", favActorFirstName);
+console.log("Sarmiento:", favActorLastName);
+console.log("Pablito Sarmiento:", fullName);
+console.log("PABLITO:", favActorName);
+console.log("pablito:", favActorName);
+console.log("Labang:", favPetName);
+console.log("LABANG:", favPetName);
+console.log("Message:", message);
+console.log("Message with Location:", messageWithLocation);
